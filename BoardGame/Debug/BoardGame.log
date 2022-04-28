@@ -1,0 +1,9 @@
+﻿  main.cpp
+  game.cpp
+  othello.cpp
+  piece.cpp
+  tic1.cpp
+  tic2.cpp
+  tictactoe.cpp
+  Generating Code...
+  BoardGame.vcxproj -> C:\Users\liuxi\Code\CPP\CIS554BoardGame\BoardGame\Debug\BoardGame.exe

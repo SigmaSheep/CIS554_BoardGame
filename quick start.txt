@@ -1,0 +1,9 @@
+Quick start:
+1. first input option 1 for othello and 2 for Tic Tac Toe
+2. if othello is selected, input the size of board e.g. 4.
+   if Tic Tac Toe is selected, input choice of theme. Theme1 @ VS #, theme 2 X VS O
+3. player1 first move, input board location like B4 (must be capital B).
+4. player 2 move until the game finished. 
+5. loop back to step1.
+
+Could be polymorphism for another theme class or another game class.
